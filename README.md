@@ -53,7 +53,48 @@ Acquire and explore website access data in order to answer questions about conte
 
 ## Steps to Reproduce
 
+- [X] Read README.md.
+- [] Clone repository to your local environment.
+- [] Ensure your `.gitignore` file contains `env.py`. 
+- [] Ensure you have an `env.py` file with appropriate SQL database access credentials in your local folder.
+- [] 
 ## Plan
 
+1. **Setup**
+   1. Create a new organization with a repository with both teammates as owners.
+   2. Clone locally and set up env.
+2. **Data Wrangling**
+   1. *Acquire data:*
+      1. Create a dataframe with results from a SQL query incorporating log and cohort data.
+   2. *Prepare Data:*
+      1. Convert to appropriate datatypes.
+      2. Re-index on datetime.
+   3. *Feature Engineering:*
+      1. Add column `['days_after_grad']`for days after cohort graduation of access.
+      2. Add column `['program']` with the program name (php, java, data science, front end).
+      3. Add column `['Number of Programs']` listing how many unique cohorts were associated with the `user_id`
+3. **Project Planning***
+   1. Find our what subset of questions each team member is most interested in exploring.
+   2. Prioritize questions by importance.
+   3. Break questions down into smaller tasks.
+   4. Prioritize tasks.
+   5. Assign most important tasks first with deadlines.
+   6. Continue to regroup and reassess.
+4. **Data Exploration**
+   1. Each member will conduct individual exploration in parallel focused on their assigned questions and tasks.
+   2. Ample markdown and comments throughout.
+   3. Progress checks ar regular intervals with collaborative effort to resolve any roadblocks hampering either member.
+   4. Create and refine compelling figure(s) associated with answering each question.
+   5. Create helper modules for most relevant exploration and visualizations for final report notebook.
+5. **Draft Deliverables**
+   1. Prepare written responses to questions.
+   2. Determine the most compelling findings to include on slide.
+   3. Draft slide.
+   4. Make a final report workbook combining the best data and visuals answering questions.
+6. **Proofread and Edit.**
+7. **Submit on time.**
 ## Key Findings
+
+
 ## Summary
+
