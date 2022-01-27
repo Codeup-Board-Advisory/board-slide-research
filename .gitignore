@@ -1,7 +1,7 @@
 env
 env.py
 *.csv
-
+jag-board-explore.code-workspace
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
