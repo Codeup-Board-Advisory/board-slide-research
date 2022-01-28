@@ -25,9 +25,9 @@ Acquire and explore website access data in order to answer questions about conte
 - Include link to notebook.
 - Attach slide.
 - [ ] Single slide describing most interesting or impactful finding(s).
-- Executive fummary format.
+- Executive summary format.
 - [ ] Github final notebook showing data exploration used to answer the questions.
-- [ ] Use modules (acquire.py, prepare.py, etc.)
+- [ ] Use modules (acquire.py, prepare.py, etc.).
 
 
 ## Project Description
