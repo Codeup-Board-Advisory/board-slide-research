@@ -61,10 +61,10 @@ Acquire and explore website access data in order to answer questions about conte
 ## Steps to Reproduce
 
 - [X] Read README.md.
-- [] Clone repository to your local environment.
-- [] Ensure your `.gitignore` file contains `env.py`. 
-- [] Ensure you have an `env.py` file with appropriate SQL database access credentials in your local folder.
-- [] 
+- [ ] Clone repository to your local environment.
+- [ ] Ensure your `.gitignore` file contains `env.py`. 
+- [ ] Ensure you have an `env.py` file with appropriate SQL database access credentials in your local folder.
+- [ ] 
 
 - ## Plan
 
