@@ -52,7 +52,16 @@ Acquire and explore website access data in order to answer questions about conte
 
 4. Is there any suspicious activity, such as users/machines/etc accessing the curriculum who shouldn’t be? Does it appear that any web-scraping is happening? Are there any suspicious IP addresses?
 
+*Bollinger bands*
+*Look into geolocating suspicious IP addresses*
+*Ideally add a location column for every IP - but this may prove challenging in terms of free access to geo lookups*
+
+
 5. At some point in 2019, the ability for students and alumni to access both curriculums (web dev to ds, ds to web dev) should have been shut off. Do you see any evidence of that happening? Did it happen before?
+
+![Q5 Solution](images/Q5.jpg)
+
+
 
 6. What topics are grads continuing to reference after graduation and into their jobs (for each program)?
 
