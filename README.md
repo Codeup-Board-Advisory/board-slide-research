@@ -36,6 +36,12 @@ Acquire and explore website access data in order to answer questions about conte
 
 1. Which lesson appears to attract the most traffic consistently across cohorts (per program)?
 
+![Q1 Ideal graph](images/Q1A.JPG)
+
+![Q1 Alternative approach](images/Q1B.JPG)
+
+
+
 2. Is there a cohort that referred to a lesson significantly more than other cohorts seemed to gloss over?
 
 3. Are there students who, when active, hardly access the curriculum? If so, what information do you have about these students?
@@ -49,6 +55,7 @@ Acquire and explore website access data in order to answer questions about conte
 7. Which lessons are least accessed?
 
 8. Anything else notable in the data?
+
 ## Data Dictionary
 
 ## Steps to Reproduce
@@ -58,7 +65,8 @@ Acquire and explore website access data in order to answer questions about conte
 - [] Ensure your `.gitignore` file contains `env.py`. 
 - [] Ensure you have an `env.py` file with appropriate SQL database access credentials in your local folder.
 - [] 
-## Plan
+
+- ## Plan
 
 1. **Setup**
    1. Create a new organization with a repository with both teammates as owners.
@@ -73,6 +81,11 @@ Acquire and explore website access data in order to answer questions about conte
       1. Add column `['days_after_grad']`for days after cohort graduation of access.
       2. Add column `['program']` with the program name (php, java, data science, front end).
       3. Add column `['Number of Programs']` listing how many unique cohorts were associated with the `user_id`
+   4. *Clustering*
+      1. Need to find meaningful way to group the assorted endpoints into a managable number of related clusters.
+      2. Think of other potentially useful clustering criteria.
+      3. Adjust hyperparameters to generate reasonable number of clusters.
+      4. Examine outliers..
 3. **Project Planning***
    1. Find our what subset of questions each team member is most interested in exploring.
    2. Prioritize questions by importance.
