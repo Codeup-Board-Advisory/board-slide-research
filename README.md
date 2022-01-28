@@ -54,6 +54,8 @@ Acquire and explore website access data in order to answer questions about conte
 
 ![Q5 Solution](images/Q5.jpg)
 
+**NOTE:** Need to filter out all students in >1 program as well as staff. (Should see the drop regardless)
+
 6. What topics are grads continuing to reference after graduation and into their jobs (for each program)?
 
 7. Which lessons are least accessed?
