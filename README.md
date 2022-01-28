@@ -76,10 +76,11 @@ Acquire and explore website access data in order to answer questions about conte
 3. **Project Planning***
    1. Find our what subset of questions each team member is most interested in exploring.
    2. Prioritize questions by importance.
-   3. Break questions down into smaller tasks.
-   4. Prioritize tasks.
-   5. Assign most important tasks first with deadlines.
-   6. Continue to regroup and reassess.
+   3. Think about and hand-draw what the ideal figure or figures are that you would want to answer that question.
+   4. Work backwards to figure out what you need to make that figure / break questions down into smaller tasks.
+   5. Prioritize tasks.
+   6. Assign most important tasks first with deadlines.
+   7. Continue to regroup and reassess.
 4. **Data Exploration**
    1. Each member will conduct individual exploration in parallel focused on their assigned questions and tasks.
    2. Ample markdown and comments throughout.
