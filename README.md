@@ -1,16 +1,14 @@
 
-# Project Title
+# Anomaly Exploration for Codeup Board
 
-A brief description of what this project does and who it's for
+Here we will will explore codeup website access to answer questions pertaining to content delivery to students and look for anomalous and potentially malicious content access.
 
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+![Logo](images/codeup2.png)
 
 ## Authors
 
 - [@jaredgodar](https://www.github.com/Jared-Godar)
-- [@brianclements](https://www.github.com/Jared-Godar)
+- [@brianclements](https://github.com/brianclements03)
 
 ## About the Project
 
@@ -18,9 +16,10 @@ A stakeholder has provided a list of questions to be answered before a board mee
 
 ## Project Goals
 
-Acquire and explore website access data in order to answer questions about content access and delivery. 
+Acquire and explore website access data in order to answer questions about content access and delivery.
 
 **DELIVERABLES:**
+
 - [ ] Email answering questions in clear language.
 - Include link to notebook.
 - Attach slide.
@@ -28,9 +27,6 @@ Acquire and explore website access data in order to answer questions about conte
 - Executive summary format.
 - [ ] Github final notebook showing data exploration used to answer the questions.
 - [ ] Use modules (acquire.py, prepare.py, etc.).
-
-
-## Project Description
 
 ## Initial Questions
 
@@ -40,7 +36,6 @@ Acquire and explore website access data in order to answer questions about conte
 
 ![Q1 Alternative approach](images/Q1B2.jpeg)
 
-
 2. Is there a cohort that referred to a lesson significantly more than other cohorts seemed to gloss over?
 
 *This question can be answered vith the same vizualizations as #1 above*
@@ -49,19 +44,15 @@ Acquire and explore website access data in order to answer questions about conte
 
 ![Q3 Alternative approach](images/Q3.jpeg)
 
-
 4. Is there any suspicious activity, such as users/machines/etc accessing the curriculum who shouldn’t be? Does it appear that any web-scraping is happening? Are there any suspicious IP addresses?
 
 *Bollinger bands*
 *Look into geolocating suspicious IP addresses*
 *Ideally add a location column for every IP - but this may prove challenging in terms of free access to geo lookups*
 
-
 5. At some point in 2019, the ability for students and alumni to access both curriculums (web dev to ds, ds to web dev) should have been shut off. Do you see any evidence of that happening? Did it happen before?
 
 ![Q5 Solution](images/Q5.jpg)
-
-
 
 6. What topics are grads continuing to reference after graduation and into their jobs (for each program)?
 
@@ -119,8 +110,7 @@ Acquire and explore website access data in order to answer questions about conte
    4. Make a final report workbook combining the best data and visuals answering questions.
 6. **Proofread and Edit.**
 7. **Submit on time.**
+
 ## Key Findings
 
-
 ## Summary
-
