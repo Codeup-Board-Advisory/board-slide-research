@@ -36,9 +36,6 @@ Acquire and explore website access data in order to answer questions about conte
 
 1. Which lesson appears to attract the most traffic consistently across cohorts (per program)?
 
-![Q1 Ideal graph](images/Q1A.JPG)
-
-![Q1 Alternative approach](images/Q1B.JPG)
 
 
 
@@ -62,9 +59,8 @@ Acquire and explore website access data in order to answer questions about conte
 
 - [X] Read README.md.
 - [ ] Clone repository to your local environment.
-- [ ] Ensure your `.gitignore` file contains `env.py`. 
+- [ ] Ensure your `.gitignore` file contains `env.py`.
 - [ ] Ensure you have an `env.py` file with appropriate SQL database access credentials in your local folder.
-- [ ] 
 
 - ## Plan
 
@@ -86,7 +82,7 @@ Acquire and explore website access data in order to answer questions about conte
       2. Think of other potentially useful clustering criteria.
       3. Adjust hyperparameters to generate reasonable number of clusters.
       4. Examine outliers..
-3. **Project Planning***
+3. **Project Planning**
    1. Find our what subset of questions each team member is most interested in exploring.
    2. Prioritize questions by importance.
    3. Think about and hand-draw what the ideal figure or figures are that you would want to answer that question.
