@@ -36,7 +36,9 @@ Acquire and explore website access data in order to answer questions about conte
 
 1. Which lesson appears to attract the most traffic consistently across cohorts (per program)?
 
+![Q1 Ideal graph](images/Q1A.JPG)
 
+![Q1 Alternative approach](images/Q1B.JPG)
 
 
 2. Is there a cohort that referred to a lesson significantly more than other cohorts seemed to gloss over?
