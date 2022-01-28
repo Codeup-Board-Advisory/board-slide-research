@@ -43,7 +43,12 @@ Acquire and explore website access data in order to answer questions about conte
 
 2. Is there a cohort that referred to a lesson significantly more than other cohorts seemed to gloss over?
 
+*This question can be answered vith the same vizualizations as #1 above*
+
 3. Are there students who, when active, hardly access the curriculum? If so, what information do you have about these students?
+
+![Q3 Alternative approach](images/Q3.jpeg)
+
 
 4. Is there any suspicious activity, such as users/machines/etc accessing the curriculum who shouldn’t be? Does it appear that any web-scraping is happening? Are there any suspicious IP addresses?
 
