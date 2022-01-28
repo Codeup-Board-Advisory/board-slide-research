@@ -21,13 +21,13 @@ A stakeholder has provided a list of questions to be answered before a board mee
 Acquire and explore website access data in order to answer questions about content access and delivery. 
 
 **DELIVERABLES:**
-[] Email answering questions in clear language.
+- [ ] Email answering questions in clear language.
 - Include link to notebook.
 - Attach slide.
-[] Single slide describing most interesting or impactful finding(s).
+- [ ] Single slide describing most interesting or impactful finding(s).
 - Executive fummary format.
-[] Github final notebook showing data exploration used to answer the questions.
-[] Use modules (acquire.py, prepare.py, etc.)
+- [ ] Github final notebook showing data exploration used to answer the questions.
+- [ ] Use modules (acquire.py, prepare.py, etc.)
 
 
 ## Project Description
